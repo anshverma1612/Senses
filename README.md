@@ -4,7 +4,7 @@
 The blindstick with ultrasonic sensor is a device designed to assist blind people in navigating their surroundings. The device uses an ultrasonic sensor, a buzzer, and a vibrating motor to provide audio and tactile feedback to the user.
 
 ## Contributers
-- @Ansh Verma(https://github.com/anshverma1612)
+- [@Ansh Verma](https://github.com/anshverma1612)
 ## Features
 
 - Detects obstacles in the user's path using an ultrasonic sensor
