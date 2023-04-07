@@ -5,6 +5,7 @@ The blindstick with ultrasonic sensor is a device designed to assist blind peopl
 
 ## Contributers
 - [@Ansh Verma](https://github.com/anshverma1612)
+- [@Vanya Nandwani](https://github.com/vannyyyaaa)
 ## Features
 
 - Detects obstacles in the user's path using an ultrasonic sensor
